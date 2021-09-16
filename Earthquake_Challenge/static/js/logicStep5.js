@@ -24,7 +24,7 @@ let map = L.map('mapid', {
 
 
 
-// Accessing the Toronto airline routes GeoJSON URL.
+// Access the earthquake data
 let earthquakeData = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 
 // This function returns the style data for each of the earthquakes we plot on

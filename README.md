@@ -5,10 +5,10 @@ The purpose of this project was to create a earthquake map based on the past 7 d
 
 ## Resources
 - Data Source
-  - [GeoJSON Tectonic Plate Data (Github) - ](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
+  - [GeoJSON Tectonic Plate Data (Github)](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
   - [Earthquake Data Sets - Earthquake Hazard Program USGS](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
-    - [All Earthquake Data]()
-    - [Major Earthquake Data]()
+    - [All Earthquake Data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
+    - [Major Earthquake Data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
 
 - Software
   - d3.js Version 5.5.0
